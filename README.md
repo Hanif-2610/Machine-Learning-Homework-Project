@@ -1,7 +1,7 @@
 # Machine Learning Homework Project
- This is a where I store my Machine Learning Homework Project where I experiment with some machine learning model
+ This is a where I store my Machine Learning Homework Project where I experiment with some machine learning model\n
 
-Week 1 - Kaggle House Prediction using Decision Tree
+Week 1 - Kaggle House Prediction using Decision Tree\n
 Week 2 - Kaggle Regularized Linear Model
 Week 3 - Kaggle KNN Classifier to Predict Fruits
 Week 4 - Seaborn Visualization

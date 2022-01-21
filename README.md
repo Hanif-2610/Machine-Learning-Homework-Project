@@ -9,3 +9,4 @@
 - Week 6 - Clustering Model
 - Week 7 - First XGBoost Case
 - Week 8 - Support Vector Machines
+- Week 9 - Multi Layer Perceptron and NN

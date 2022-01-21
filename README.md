@@ -12,3 +12,6 @@
 - Week 9 - Multi Layer Perceptron and NN
 - Week 10 - Deep Learning Computation
 - Week 11 - CNN
+- Week 12 - Modern CNN
+- Week 13 - RNN
+- Week 14 - Modern RNN

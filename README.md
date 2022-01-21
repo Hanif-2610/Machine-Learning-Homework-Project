@@ -8,3 +8,4 @@
 - Week 5 - Dimensionality Reduction
 - Week 6 - Clustering Model
 - Week 7 - First XGBoost Case
+- Week 8 - Support Vector Machines

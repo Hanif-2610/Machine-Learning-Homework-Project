@@ -14,3 +14,4 @@
 - Week 11 - CNN
 - Week 12 - Modern CNN
 - Week 13 - RNN and Modern RNN
+- Final Exam
